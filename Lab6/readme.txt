@@ -1,4 +1,4 @@
-https://github.com/Abdullah-Mehtab/Lab6/tree/main
+
 
 Lab6 Library
 The Lab6 Library is designed to control 4 LEDs connected to an Arduino. This library provides various functions to interact with the LEDs, including displaying random binary numbers, counting up and down, and shifting binary values left or right. It's a simple yet powerful way to manipulate and control LED states.
